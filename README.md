@@ -114,7 +114,7 @@ The `alpha` channel command uses the observation that the fourth byte of the
 case with most image renderers, so it can also be used to pack in a few extra
 bytes.
 
-The `analysie` command will display a bunch of data about the image.  The `-p`
+The `analyse` command will display a bunch of data about the image.  The `-p`
 option will create the renderings of the palette as a block image (as seen in
 the article), and the `-b` option gives you some control over the size of the
 resultant file.  It's a BMP, of course.
